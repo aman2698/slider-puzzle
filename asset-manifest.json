@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/sliding-puzzle-react/static/js/main.ba73436f.js",
+    "static/js/724.bfd6e407.chunk.js": "/sliding-puzzle-react/static/js/724.bfd6e407.chunk.js",
+    "index.html": "/sliding-puzzle-react/index.html",
+    "main.ba73436f.js.map": "/sliding-puzzle-react/static/js/main.ba73436f.js.map",
+    "724.bfd6e407.chunk.js.map": "/sliding-puzzle-react/static/js/724.bfd6e407.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ba73436f.js"
+  ]
+}
